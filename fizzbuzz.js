@@ -1,2 +1,3 @@
-for _ in range(5):
+for _ in range(1,5):
     print('hello')
+    print('a')
